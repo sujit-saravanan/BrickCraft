@@ -1,0 +1,6 @@
+build/
+!build/CMakeLists.txt
+
+output/BrickCraft
+
+assets/shaders/output/compute.spv
